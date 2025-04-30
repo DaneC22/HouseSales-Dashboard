@@ -4,20 +4,20 @@ Data Visualization for House Sales
 Hi! I'm Dane Condes — an aspiring Supply Chain Analyst. I'm currently learning more about Tableau, SQL, and supply chain analytics.  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cyria-dane-condes/).
 
-A data visualization project exploring trends and key factors influencing house sale prices. Built using Tableau, this interactive dashboard provides valuable insights for real estate professionals, analysts, and data enthusiasts.
+This is my second published data visualization project. It explores trends and key factors influencing house sale prices. Built using Tableau, this interactive dashboard provides valuable insights for real estate professionals, analysts, and data enthusiasts.
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 This Tableau dashboard highlights:
 
-- 📊 **Price distribution** across different house conditions
-- 📐 **Relationship between square footage and price**
-- 📅 **Sales patterns** by year and month
-- 🏘️ **Impact of features** like grade and lot size on house prices
+-  **Price distribution** across different house conditions
+-  **Relationship between square footage and price**
+-  **Sales patterns** by year and month
+-  **Impact of features** like grade and lot size on house prices
 
-## 🔗 View the Live Dashboard
+##  View the Live Dashboard
 
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/cyria.dane.condes/viz/HouseSalesDashboard_17459759357060/HouseSalesDashboard)
+ [View on Tableau Public](https://public.tableau.com/app/profile/cyria.dane.condes/viz/HouseSalesDashboard_17459759357060/HouseSalesDashboard)
 
 ## 🛠️ Tools Used
 
@@ -25,7 +25,7 @@ This Tableau dashboard highlights:
 - **Microsoft Excel / CSV** – for data preparation  
 - 
 
-## 📂 Dataset
+##  Dataset
 
 The dataset used for this project comes from publicly available house sales data.  
 It includes variables such as sale price, lot area, living area, number of bedrooms and bathrooms, house grade, year built, and more.
