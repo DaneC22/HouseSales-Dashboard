@@ -1,6 +1,8 @@
 # HouseSales-Dashboard
 Data Visualization for House Sales
-# 🏡 House Sales Dashboard (Tableau)
+
+Hi! I'm Dane Condes — an aspiring Supply Chain Analyst. I'm currently learning more about Tableau, SQL, and supply chain analytics.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cyria-dane-condes/).
 
 A data visualization project exploring trends and key factors influencing house sale prices. Built using Tableau, this interactive dashboard provides valuable insights for real estate professionals, analysts, and data enthusiasts.
 
@@ -36,12 +38,6 @@ It includes variables such as sale price, lot area, living area, number of bedro
 - Develop data storytelling skills using Tableau  
 - Identify trends and insights in real estate data  
 - Practice dashboard design principles for clarity and usability
-
-
-## 🙋‍♀️ About Me
-
-Hi! I'm Dane Condes — aspiring Supply Chain Analyst. I'm currently learning more about Tableau, SQL, and supply chain analytics.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cyria-dane-condes/).
 
 ---
 
